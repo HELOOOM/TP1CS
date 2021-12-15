@@ -61,17 +61,17 @@ paquets capturés
 ![IMAGE](frameln.jpeg)
 
 4. Configuration du filtre de wireshark pour :
-  a. n'afficher que les trames concernant un protocole particulier : bootp, udp, tcp ,etc
+ a. n'afficher que les trames concernant un protocole particulier : bootp, udp, tcp ,etc
   
-  - Bootp
+     - Bootp
     
 ![IMAGE](bootp.jpeg)
   
-   - Udp
+      - Udp
     
 ![IMAGE](udp.jpeg)
 
-   - Tcp
+      - Tcp
 
 ![IMAGE](tcp.jpeg)
 
