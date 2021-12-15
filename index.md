@@ -58,7 +58,7 @@ paquets capturés
 
 3. Oui, on peut capturer les trafics échangés entre les machines du reste du réseau 
 
-![IMAGE](echangeip.jpeg)
+![IMAGE](frameln.jpeg)
 
 
 
