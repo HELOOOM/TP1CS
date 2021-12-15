@@ -20,4 +20,6 @@ Linux, wireshark, compilateur cc ou gcc
 
 ![IMAGE](codesource.jpeg)
 
-2. 
+2. puis on génére l’exécutable
+
+![IMAGE](execution.jpeg)
