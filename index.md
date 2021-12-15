@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+#TP1
 
-You can use the [editor on GitHub](https://github.com/HELOOOM/TP1CS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Attaques passives : sniffing passif
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Deffinition
 
-### Markdown
+Les sniffers (appelé aussi « analyseurs de protocoles » ou « analyseurs de réseau ») sont des outils logiciels qui peuvent capturer les trames circulant sur un réseau local et afficher leurs contenus (entêtes des protocoles, identités des utilisateurs, mot de passe non cryptés, etc).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Objectif
 
-```markdown
-Syntax highlighted code block
+- Implémenter un sniffer passif simple
+- Manipuler des logiciels de sniffing
 
-# Header 1
-## Header 2
-### Header 3
+## Outils logiciels
 
-- Bulleted
-- List
+Linux, wireshark, compilateur cc ou gcc
 
-1. Numbered
-2. List
+## Partie 1 : Implémentation d’un sniffer passif
+1. Compilation du code source (cc -c sniffer_eth_ip_tcp_data.c)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HELOOOM/TP1CS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2. 
