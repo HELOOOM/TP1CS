@@ -42,5 +42,5 @@ les trames s'affiche comment suivant:
 4. Pour Afficher le contenu des entêtes des protocoles des niveaux supérieurs, on enleve les
 commentaires des fonctions correspondantes (au niveau de la fonction main),les trames s'affiche comment suivant:
 
-![IMAGE](comment4.jpeg)
+![IMAGE](comment44.jpeg)
 
