@@ -1,4 +1,4 @@
-#TP1
+- # TP1
 
 # Attaques passives : sniffing passif
 
@@ -40,7 +40,18 @@ les trames s'affiche comment suivant:
 ![IMAGE](comment3.jpeg)
 
 4. Pour Afficher le contenu des entêtes des protocoles des niveaux supérieurs, on enleve les
-commentaires des fonctions correspondantes (au niveau de la fonction main),les trames s'affiche comment suivant:
+commentaires des fonctions correspondantes (au niveau de la fonction main).
+
+les trames s'affiche comment suivant:
 
 ![IMAGE](comment44.jpeg)
 
+5. fonction qui permet d’afficher l’entête UDP
+
+- # TP2
+1. on Lance le logiciel wireshark en arrière- plan
+
+2.o lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
+paquets capturés
+
+![IMAGE](echangeip.jpeg)
