@@ -51,7 +51,15 @@ les trames s'affiche comment suivant:
 - # TP2
 1. on Lance le logiciel wireshark en arrière- plan
 
-2.o lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
+2.On lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
 paquets capturés
 
 ![IMAGE](echangeip.jpeg)
+
+3. Oui, on peut capturer les trafics échangés entre les machines du reste du réseau 
+
+![IMAGE](echangeip.jpeg)
+
+
+
+
