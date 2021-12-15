@@ -54,11 +54,11 @@ les trames s'affiche comment suivant:
 2.On lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
 paquets capturés
 
-![IMAGE](echangeip1.jpeg)
+![IMAGE](echangeip.jpeg)
 
 3. Oui, on peut capturer les trafics échangés entre les machines du reste du réseau 
 
-![IMAGE](frameln.jpeg)
+![IMAGE](echangeip1.jpeg)
 
 4. Configuration du filtre de wireshark pour :
  a. n'afficher que les trames concernant un protocole particulier : bootp, udp, tcp ,etc
@@ -84,5 +84,5 @@ paquets capturés
  
  d. n'afficher que les trames dont la taille est supérieure à une taille donnée
 
-![IMAGE](echangeip.jpeg)
+![IMAGE](frameln.jpeg)
  
