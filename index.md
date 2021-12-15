@@ -54,7 +54,7 @@ les trames s'affiche comment suivant:
 2.On lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
 paquets capturés
 
-![IMAGE](echangeip.jpeg)
+![IMAGE](echangeip1.jpeg)
 
 3. Oui, on peut capturer les trafics échangés entre les machines du reste du réseau 
 
@@ -75,5 +75,14 @@ paquets capturés
 
 ![IMAGE](tcp.jpeg)
 
+ b. n'afficher que les trames dont l'adresse MAC destination est celle de votre machine
+ 
+ ![IMAGE](dst1.jpeg)
+ 
+ c. n'afficher que les trames échangé entre deux machines d'adresse @IP1 et @IP2
+ 
+ 
+ d. n'afficher que les trames dont la taille est supérieure à une taille donnée
 
-
+![IMAGE](echangeip.jpeg)
+ 
