@@ -15,7 +15,7 @@ Les sniffers (appelé aussi « analyseurs de protocoles » ou « analyseurs de r
 
 Linux, wireshark, compilateur cc ou gcc
 
-## Partie 1 : Implémentation d’un sniffer passif
+- ## Partie 1 : Implémentation d’un sniffer passif
 
 1. Compilation du code source 
 
@@ -48,7 +48,7 @@ les trames s'affiche comment suivant:
 
 5. fonction qui permet d’afficher l’entête UDP
 
-- # TP2
+- ## Partie2 : manipulation de sniffers
 1. on Lance le logiciel wireshark en arrière- plan
 
 2.On lance des applications d’échange de trafic entre d'autres machines et la notre. Observons-les
