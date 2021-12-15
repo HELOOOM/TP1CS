@@ -27,6 +27,6 @@ b. puis on génére l'exécutable(cc sniffer_eth_ip_tcp_data.c – o sniffer)
 
 ![IMAGE](exec.jpeg)
 
-2. execution du sniffer en mode root
+2. execution du sniffer en mode root (exemple 10 packet)
 
-![IMAGE](exec.jpeg)
+![IMAGE](testsnif.jpeg)
