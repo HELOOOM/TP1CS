@@ -8,12 +8,14 @@ Les sniffers (appelé aussi « analyseurs de protocoles » ou « analyseurs de r
 
 ## Objectif
 
-- Implémenter un sniffer passif simple
-- Manipuler des logiciels de sniffing
+- [Implémenter un sniffer passif simple](#implementation)
+- [Manipuler des logiciels de sniffing](#manipulation)
 
 ## Outils logiciels
 
 Linux, wireshark, compilateur cc ou gcc
+
+### Implementation
 
 - ## Partie 1 : Implémentation d’un sniffer passif
 
@@ -47,6 +49,8 @@ les trames s'affiche comment suivant:
 ![IMAGE](comment44.jpeg)
 
 5. fonction qui permet d’afficher l’entête UDP
+
+### Manipulation
 
 - ## Partie2 : manipulation de sniffers
 1. on Lance le logiciel wireshark en arrière- plan
