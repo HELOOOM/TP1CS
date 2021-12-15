@@ -22,4 +22,4 @@ Linux, wireshark, compilateur cc ou gcc
 
 2. puis on génére l’exécutable
 
-![IMAGE](execution.jpeg)
+![IMAGE](exec.jpeg)
