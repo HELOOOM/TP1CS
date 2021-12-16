@@ -50,7 +50,7 @@ les trames s'affiche comment suivant:
 
 5)fonction qui permet d’afficher l’entête UDP:
 
- ![IMAGE](fonctionudp.png)
+ ![IMAGE](fonctionudp.jpeg)
 
 ### Manipulation
 
