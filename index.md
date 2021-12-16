@@ -50,7 +50,7 @@ les trames s'affiche comment suivant:
 
 5)fonction qui permet d’afficher l’entête UDP:
 
- ![IMAGE](fonctionudp.jpeg)
+ ![IMAGE](fonctionudp.png)
 
 ### Manipulation
 
@@ -63,7 +63,7 @@ paquets capturés
 
 ![IMAGE](echangeip.jpeg)
 
-3)Oui, on peut capturer les trafics échangés entre les machines du reste du réseau 
+3)Oui, on peut capturer les trafics échangés entre les machines du reste du réseau, mais il faut désactiver les firewall.
 
 ![IMAGE](echangeipp.jpeg)
 
@@ -94,3 +94,4 @@ paquets capturés
 
 ![IMAGE](frameln.jpeg)
  
+
