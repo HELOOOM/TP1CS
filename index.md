@@ -48,7 +48,9 @@ les trames s'affiche comment suivant:
 
 ![IMAGE](comment44.jpeg)
 
-5)fonction qui permet d’afficher l’entête UDP
+5)fonction qui permet d’afficher l’entête UDP:
+
+ ![IMAGE](fonctionudp.jpeg)
 
 ### Manipulation
 
