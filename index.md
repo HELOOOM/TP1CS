@@ -88,10 +88,13 @@ paquets capturés
  ![IMAGE](dst1.jpeg)
  
  c. n'afficher que les trames échangé entre deux machines d'adresse @IP1 et @IP2
- 
+  ![IMAGE](ip1ip2.jpeg)
+
  
  d. n'afficher que les trames dont la taille est supérieure à une taille donnée
 
 ![IMAGE](frameln.jpeg)
  
+- ## Partie3 : remote sniffing
 
+Pour cette partie nous avons pas trouvé l'interface correspondante pour insérer la commande dans Wireshark. 
