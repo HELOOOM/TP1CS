@@ -2,7 +2,7 @@
 
 # Attaques passives : sniffing passif
 
-## Deffinition
+## Definition
 
 Les sniffers (appelé aussi « analyseurs de protocoles » ou « analyseurs de réseau ») sont des outils logiciels qui peuvent capturer les trames circulant sur un réseau local et afficher leurs contenus (entêtes des protocoles, identités des utilisateurs, mot de passe non cryptés, etc).
 
@@ -37,14 +37,14 @@ b. puis on génére l'exécutable(cc sniffer_eth_ip_tcp_data.c – o sniffer)
 afficher le contenu de l’entête ETHERNET, il faut enlever le commentaire de la fonction
 ParseEthernetHeader ,recompiler puis régénérer l’exécutable et refaire l’étape 2.
 
-les trames s'affiche comment suivant:
+les trames s'affiche comme suivant:
 
 ![IMAGE](comment3.jpeg)
 
 4)Pour Afficher le contenu des entêtes des protocoles des niveaux supérieurs, on enleve les
 commentaires des fonctions correspondantes (au niveau de la fonction main).
 
-les trames s'affiche comment suivant:
+les trames s'affiche comme suivant:
 
 ![IMAGE](comment44.jpeg)
 
